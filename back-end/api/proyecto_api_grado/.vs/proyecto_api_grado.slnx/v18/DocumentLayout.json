@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Nikw13\\proyecto-de-grado-e-commerce-rag\\back-end\\api\\proyecto_api_grado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3A123A-6E81-4A06-A4FC-A36F4BDD6312}|proyecto_api_grado.csproj|g:\\nikw13\\proyecto-de-grado-e-commerce-rag\\back-end\\api\\proyecto_api_grado\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3A123A-6E81-4A06-A4FC-A36F4BDD6312}|proyecto_api_grado.csproj|solutionrelative:app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "G:\\Nikw13\\proyecto-de-grado-e-commerce-rag\\back-end\\api\\proyecto_api_grado\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\WebApiConfig.cs",
+              "ToolTip": "G:\\Nikw13\\proyecto-de-grado-e-commerce-rag\\back-end\\api\\proyecto_api_grado\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T23:31:07.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

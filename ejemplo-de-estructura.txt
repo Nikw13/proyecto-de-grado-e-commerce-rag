@@ -1,0 +1,65 @@
+proyecto-de-grado-ecommerce/
+│
+├── README.md
+├── .gitignore
+├── LICENSE
+│
+├── backend/
+│   ├── src/
+│   │   ├── Api/
+│   │   ├── Application/
+│   │   ├── Domain/
+│   │   ├── Infrastructure/
+│   │   └── Shared/
+│   │
+│   ├── database/
+│   │   ├── schema/
+│   │   ├── migrations/
+│   │   └── seeds/
+│   │
+│   └── tests/
+│
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   └── tests/
+│
+├── docs/
+│   ├── 01-requisitos/
+│   │   ├── elicitacion.md
+│   │   ├── stakeholders.md
+│   │   ├── historias-de-usuario.md
+│   │   └── backlog.md
+│   │
+│   ├── 02-arquitectura/
+│   │   ├── arquitectura-general.md
+│   │   ├── diagrama-arquitectura.md
+│   │   ├── diagrama-componentes.md
+│   │   └── decisiones-arquitectura.md
+│   │
+│   ├── 03-base-de-datos/
+│   │   ├── modelo-entidad-relacion.md
+│   │   ├── diccionario-datos.md
+│   │   └── normalizacion.md
+│   │
+│   ├── 04-api/
+│   │   ├── endpoints.md
+│   │   ├── autenticacion.md
+│   │   └── ejemplos-request-response.md
+│   │
+│   ├── 05-ui-ux/
+│   │   ├── wireframes.md
+│   │   └── flujo-usuario.md
+│   │
+│   ├── 06-devops/
+│   │   ├── deployment.md
+│   │   └── arquitectura-infraestructura.md
+│   │
+│   └── 07-referencias/
+│       ├── tecnologias.md
+│       └── bibliografia.md
+│
+└── diagrams/
+    ├── arquitectura/
+    ├── base-datos/
+    └── flujo-usuario/
